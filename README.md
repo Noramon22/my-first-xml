@@ -7,5 +7,8 @@ just for fun - learning xml
 - SQL Databases
 - R Programming 
 - Python Programming
-- Stat & ML
+- Stats & ML
+
 ## My Portfolios
+
+Please see my Google Data Studio Dashboard .[here](https://www.google.com)
